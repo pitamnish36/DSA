@@ -1,3 +1,4 @@
+package Prime_Numbers;
 import java.util.ArrayList;
 import java.util.Arrays;
 

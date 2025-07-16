@@ -1,3 +1,4 @@
+package Prime_Numbers;
 public class PrimeNumbers_BruteForce {
     public static void main(String[] args) {
         int n=113;
